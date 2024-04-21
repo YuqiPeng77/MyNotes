@@ -86,7 +86,7 @@ $$
 
 **算法**
 
-![algorithm](file:/Users/yuqipeng/Desktop/MyNotes/Coresets\ for\ Data-efficient\ Training\ of\ Machine\ Learning\ Models/algorithm.png)
+![algorithm](/Users/yuqipeng/Desktop/MyNotes/Coresets for Data-efficient Training of Machine Learning Models/algorithm.png)
 
 
 
